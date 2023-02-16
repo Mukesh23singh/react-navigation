@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.6.0](https://github.com/react-navigation/react-navigation/compare/@react-navigation/material-top-tabs@6.5.3...@react-navigation/material-top-tabs@6.6.0) (2023-02-14)
+
+### Features
+
+* allow users to pass `android_ripple` config in TabView ([#11203](https://github.com/react-navigation/react-navigation/issues/11203)) ([a452ecb](https://github.com/react-navigation/react-navigation/commit/a452ecbfa00d963ff46f231919e66b3cd87f5939)), closes [#11198](https://github.com/react-navigation/react-navigation/issues/11198) - by @okwasniewski
+
+## [6.5.3](https://github.com/react-navigation/react-navigation/compare/@react-navigation/material-top-tabs@6.5.2...@react-navigation/material-top-tabs@6.5.3) (2023-01-31)
+
+**Note:** Version bump only for package @react-navigation/material-top-tabs
+
+## [6.5.2](https://github.com/react-navigation/react-navigation/compare/@react-navigation/material-top-tabs@6.5.1...@react-navigation/material-top-tabs@6.5.2) (2023-01-10)
+
+**Note:** Version bump only for package @react-navigation/material-top-tabs
+
 ## [6.5.1](https://github.com/react-navigation/react-navigation/compare/@react-navigation/material-top-tabs@6.5.0...@react-navigation/material-top-tabs@6.5.1) (2022-12-12)
 
 **Note:** Version bump only for package @react-navigation/material-top-tabs
